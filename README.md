@@ -12,14 +12,14 @@ SpikeAgent is a multimodal large language model (LLM)-based AI agent that automa
 - **Benchmark-Validated** – Matches or surpasses expert-level curation across various spike-sorting algorithms and electrode types.  
 
 ## Demo
-https://github.com/LiuLab-Bioelectronics-Harvard/spike_agent/assets/spike_sorting_AI_agent_demo.mov
+https://github.com/LiuLab-Bioelectronics-Harvard/spike_agent/assets/spike_sorting_AI_agent_demo.mp4
 
 ## Getting Started
 
 1. Clone the repository
    ```bash
-   git clone [https://github.com/NingyueLiang/Spike_Agent.git](https://github.com/LiuLab-Bioelectronics-Harvard/spike_agent.git)
-   cd SpikeAgent
+   git clone https://github.com/LiuLab-Bioelectronics-Harvard/spike_agent.git
+   cd spike_agent
    ```
 
 2. Install the dependencies
