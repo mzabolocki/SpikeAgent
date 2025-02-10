@@ -11,17 +11,20 @@ SpikeAgent is a multimodal large language model (LLM)-based AI agent that automa
 - **High Efficiency** – Reduces curation time from 40+ minutes to just a few minutes per 100 spikes.  
 - **Benchmark-Validated** – Matches or surpasses expert-level curation across various spike-sorting algorithms and electrode types.  
 
+## Demo
+
+
 ## Getting Started
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/NingyueLiang/Spike_Agent.git
+   git clone [https://github.com/NingyueLiang/Spike_Agent.git](https://github.com/LiuLab-Bioelectronics-Harvard/spike_agent.git)
    cd SpikeAgent
    ```
 
 2. Install the dependencies
 
-   We use conda to manage the dependencies and currently only support the linux platform.
+   We use conda to manage the dependencies and currently only support the Linux system.
 
    ### Linux Users
 
