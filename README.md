@@ -12,7 +12,7 @@ SpikeAgent is a multimodal large language model (LLM)-based AI agent that automa
 - **Benchmark-Validated** – Matches or surpasses expert-level curation across various spike-sorting algorithms and electrode types.  
 
 ## Demo
-<video src="https://github.com/LiuLab-Bioelectronics-Harvard/spike_agent/blob/main/assets/spike_sorting_AI_agent_demo.mp4"></video>
+<video src="https://github.com/LiuLab-Bioelectronics-Harvard/spike_agent/blob/main/assets/spike_sorting_AI_agent_demo.mp4">Here</video>
 
 ## Getting Started
 
