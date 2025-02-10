@@ -15,8 +15,8 @@ SpikeAgent is a multimodal large language model (LLM)-based AI agent that automa
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/LiuLab-Bioelectronics-Harvard/spike_agent.git
-   cd spike_agent
+   git clone https://github.com/LiuLab-Bioelectronics-Harvard/SpikeAgent.git
+   cd SpikeAgent
    ```
 
 2. Install the dependencies
