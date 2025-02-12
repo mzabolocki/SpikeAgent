@@ -1,7 +1,11 @@
 # Spike Agent
+<p>
+  <img src="https://github.com/user-attachments/assets/32dcee5b-fef2-41ea-9ac8-595cbe74bc07" width="5%">
+</p>
 
 ## Overview  
 SpikeAgent is a multimodal large language model (LLM)-based AI agent that automates and standardizes the spike sorting pipeline, a critical process in neural signal decoding. Traditional workflows are fragmented, labor-intensive, and require expert curation, limiting scalability and reproducibility. SpikeAgent overcomes these challenges by leveraging LLMs for autonomous decision-making, reasoning, and interaction with intermediate results.  
+
 
 ## Features  
 - **End-to-End Automation** – Handles preprocessing, spike detection, feature extraction, clustering, and validation.  
