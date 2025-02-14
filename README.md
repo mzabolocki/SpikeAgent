@@ -77,7 +77,7 @@ The app will open in your default web browser at the local host.
 
 ## Citation
 
-If you find SpikeAgent useful for your work, please cite our [paper](https://liulab.seas.harvard.edu/): 
+If you find SpikeAgent useful for your work, please cite our [paper](https://doi.org/10.1101/2025.02.11.637754): 
 
 > Zuwan Lin#, Arnau Marin-Llobet#, Jongmin Baek, Yichun He, Jaeyong Lee, Wenbo Wang, Xinhe Zhang, Ariel J. Lee, Ningyue Liang, Jin Du, Jie Ding, Na Li, Jia Liu*
 Preprint at bioRxiv (2025): https://doi.org/10.1101/2025.02.11.637754
