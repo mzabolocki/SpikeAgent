@@ -1,4 +1,10 @@
 # Spike Agent
+
+[![GitHub stars](https://img.shields.io/github/stars/LiuLab-Bioelectronics-Harvard/SpikeAgent)](https://github.com/LiuLab-Bioelectronics-Harvard/SpikeAgent/stargazers)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+https://doi.org/10.1101/2025.02.11.637754
+
 <p>
   <img src="https://github.com/user-attachments/assets/32dcee5b-fef2-41ea-9ac8-595cbe74bc07" width="5%">
 </p>
@@ -6,6 +12,11 @@
 ## Overview  
 SpikeAgent is a multimodal large language model (LLM)-based AI agent that automates and standardizes the spike sorting pipeline, a critical process in neural signal decoding. Traditional workflows are fragmented, labor-intensive, and require expert curation, limiting scalability and reproducibility. SpikeAgent overcomes these challenges by leveraging LLMs for autonomous decision-making, reasoning, and interaction with intermediate results.  
 
+## Related Work
+
+SpikeAgent is part of a broader AI agent ecosystem developed for specialized biological data analysis. A complementary tool in this ecosystem is [STAgent](https://github.com/LiuLab-Bioelectronics-Harvard/STAgent.git), which focuses on spatial transcriptomics data analysis. 
+
+STAgent is described in our recent preprint: [https://doi.org/10.1101/2025.04.01.646731](https://doi.org/10.1101/2025.04.01.646731)
 
 ## Features  
 - **End-to-End Automation** – Handles preprocessing, spike detection, feature extraction, clustering, and validation.  
