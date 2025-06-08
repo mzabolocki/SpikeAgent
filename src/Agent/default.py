@@ -1,7 +1,7 @@
 import numpy as np
 from pathlib import Path
 import spikeinterface.sorters as ss
-from kilosort import DEFAULT_SETTINGS
+# from kilosort import DEFAULT_SETTINGS
 
 MP_DEFAULT_PARAMS = {
         'sorter_name': 'mountainsort4',
