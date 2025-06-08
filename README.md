@@ -48,6 +48,14 @@ STAgent is described in our recent preprint: [https://doi.org/10.1101/2025.04.01
    conda activate spike_agent
    ```
 
+   ### Mac users
+   ```bash
+   # Create the environment from the file
+   conda env create -f environment.mac.yml
+
+   # Activate the environment
+   conda activate spike_agent
+   ```
 
 3. Set up your environment variables
    - Create a `.env` file in the root directory
