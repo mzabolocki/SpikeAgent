@@ -36,7 +36,7 @@ STAgent is described in our recent preprint: [https://doi.org/10.1101/2025.04.01
 
 2. Install the dependencies
 
-   We use conda to manage the dependencies and currently only support the Linux system.
+   We use conda to manage the dependencies.
 
    ### Linux Users
 
