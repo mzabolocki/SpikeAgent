@@ -62,7 +62,7 @@ STAgent is described in our recent preprint: [https://doi.org/10.1101/2025.04.01
    - Add your API key in this file. The API keys needed for this agent are:
     ```
     # If you want to use OpenAI models, you need to add the following:
-    OPENAI_API_KEY=your-api-key-here
+    OPENAI_API_KEY=your-api-key-here  # go to: https://platform.openai.com/account/api-keys
     OPENAI_API_BASE=your-api-base-here
     WHISPER_API_KEY=your-whisper-api-key-here
 
