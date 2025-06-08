@@ -160,6 +160,9 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+# Raw data
+0330_230331_000245.rhd**
+
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore

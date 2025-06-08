@@ -17,7 +17,7 @@ NP_DEFAULT_PARAMS = {
         'sorter_name': 'kilosort4',
         'raw_data_path': './data/raw_data',
         'processed_path': './data/raw_data',
-        'folder_name':'AL031_2019-12-02',
+        'folder_name':'0330',
         'probe_zoomin': True,
         'filter_frequency_minimum': 300,
         'filter_frequency_maximum': None,
